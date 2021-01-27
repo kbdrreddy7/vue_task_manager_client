@@ -1,0 +1,20 @@
+export const AUTH={
+    "SET_USER":"SET_USER",
+    "SET_USER_ACCESS":"SET_USER_ACCESS"
+}
+
+export const GLOBAL={
+    "SET_NAME":"SET_NAME",
+    "SET_DATA":"SET_DATA",
+    "SET_PATH":"SET_PATH",
+    "SET_COUNT":"SET_COUNT",
+    "SET_ID_FIELD":"SET_ID_FIELD",
+    "SET_LOADING":"SET_LOADING",
+    "ADD_DATA":"ADD_DATA",
+    "SET_LOADED_OBJ":"SET_LOADED_OBJ"
+}
+
+
+export const ROOT={
+    "SET_DATA":"SET_DATA"
+}
